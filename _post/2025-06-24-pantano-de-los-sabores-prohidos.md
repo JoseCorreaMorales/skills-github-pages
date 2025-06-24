@@ -1,5 +1,5 @@
 ---
-title: "🐉 Bienvenido al Pantano de los Saberes Prohibidos"
+title: "Bienvenido al Pantano de los Saberes Prohibidos"
 date: 2025-06-24
 ---
 
